@@ -1,0 +1,188 @@
+{
+    "fromCache": true,
+    "routes": [
+      {
+        "places": [
+          {
+            "fid": null,
+            "name": "Ülikooli 18, 50090 Tartu, Estonia",
+            "location": {
+              "lat": 58.3810843,
+              "lng": 26.7198659,
+              "address": null
+            },
+            "icon": null,
+            "category": null,
+            "type": "START",
+            "duration": 0,
+            "alternativeName": "Ülikooli 18",
+            "openingHours": null,
+            "rating": null,
+            "priceLevel": null
+          },
+          {
+            "fid": "4c935cf7332c370416de8f64",
+            "name": "Toomemägi",
+            "location": {
+              "lat": 58.37973605337325,
+              "lng": 26.716561317443848,
+              "address": {
+                "street": null,
+                "city": "Tartu",
+                "country": "Eesti"
+              }
+            },
+            "icon": "https://ss3.4sqi.net/img/categories_v2/parks_outdoors/park_88.png",
+            "category": "Park",
+            "type": "ROUTE",
+            "duration": 1200,
+            "alternativeName": "Toomemägi",
+            "openingHours": null,
+            "rating": 4.7,
+            "priceLevel": null
+          },
+          {
+            "fid": "4be193e74ed5c9b6aab2ccce",
+            "name": "Teater Vanemuine, väike maja",
+            "location": {
+              "lat": 58.37343755545505,
+              "lng": 26.71479320701215,
+              "address": {
+                "street": "vanemuise 45a",
+                "city": "Tartu",
+                "country": "Eesti"
+              }
+            },
+            "icon": "https://ss3.4sqi.net/img/categories_v2/arts_entertainment/performingarts_theater_88.png",
+            "category": "Theater",
+            "type": "ROUTE",
+            "duration": 1200,
+            "alternativeName": "Vanemuise väike maja",
+            "openingHours": null,
+            "rating": 4.7,
+            "priceLevel": null
+          },
+          {
+            "fid": "5b2bd9fd491be7002ca684f5",
+            "name": "Kolm Tilli",
+            "location": {
+              "lat": 58.37039044994698,
+              "lng": 26.71627368421921,
+              "address": {
+                "street": null,
+                "city": "Tartu",
+                "country": "Eesti"
+              }
+            },
+            "icon": "https://ss3.4sqi.net/img/categories_v2/food/default_88.png",
+            "category": "Restaurant",
+            "type": "ROUTE",
+            "duration": 1200,
+            "alternativeName": "Kolm Tilli",
+            "openingHours": {
+              "open_now": true
+            },
+            "rating": 4.5,
+            "priceLevel": 2
+          },
+          {
+            "fid": "563c879fcd102b8e3528f039",
+            "name": "Aparaat",
+            "location": {
+              "lat": 58.370468227848676,
+              "lng": 26.715944022137926,
+              "address": {
+                "street": "Kastani 42",
+                "city": "Tartu",
+                "country": "Eesti"
+              }
+            },
+            "icon": "https://ss3.4sqi.net/img/categories_v2/food/cafe_88.png",
+            "category": "Café",
+            "type": "ROUTE",
+            "duration": 1200,
+            "alternativeName": "Restoran Aparaat",
+            "openingHours": {
+              "open_now": true
+            },
+            "rating": 4.6,
+            "priceLevel": 1
+          },
+          {
+            "fid": "5711404d498eb520f494e5ea",
+            "name": "Hektor Design Hostel",
+            "location": {
+              "lat": 58.3703484097288,
+              "lng": 26.714523351146727,
+              "address": {
+                "street": "Riia 26",
+                "city": "Tartu",
+                "country": "Eesti"
+              }
+            },
+            "icon": "https://ss3.4sqi.net/img/categories_v2/travel/hostel_88.png",
+            "category": "Hostel",
+            "type": "ROUTE",
+            "duration": 1200,
+            "alternativeName": "Hektor Disainhostel",
+            "openingHours": {
+              "open_now": true
+            },
+            "rating": 4.4,
+            "priceLevel": null
+          },
+          {
+            "fid": null,
+            "name": "W. Ostwaldi 1, 50411 Tartu, Estonia",
+            "location": {
+              "lat": 58.3663217,
+              "lng": 26.6906504,
+              "address": null
+            },
+            "icon": null,
+            "category": null,
+            "type": "FINISH",
+            "duration": 0,
+            "alternativeName": "Tartu Ülikooli füüsika instituut",
+            "openingHours": {
+              "open_now": true
+            },
+            "rating": 4.5,
+            "priceLevel": null
+          }
+        ],
+        "segments": [
+          {
+            "distance": 246,
+            "duration": 256
+          },
+          {
+            "distance": 839,
+            "duration": 617
+          },
+          {
+            "distance": 408,
+            "duration": 296
+          },
+          {
+            "distance": 18,
+            "duration": 13
+          },
+          {
+            "distance": 121,
+            "duration": 92
+          },
+          {
+            "distance": 1683,
+            "duration": 1307
+          }
+        ],
+        "totalDuration": 8581,
+        "totalDistance": 3315
+      }
+    ],
+    "copyPasteMaps": [
+      "58.3810843\t26.7198659\tnumbered\tblack\t1\t1 Ülikooli 18, 50090 Tartu, Estonia\n58.37973605337325\t26.716561317443848\tnumbered\tblack\t2\t2 Toomemägi\n58.37343755545505\t26.71479320701215\tnumbered\tblack\t3\t3 Teater Vanemuine, väike maja\n58.37039044994698\t26.71627368421921\tnumbered\tblack\t4\t4 Kolm Tilli\n58.370468227848676\t26.715944022137926\tnumbered\tblack\t5\t5 Aparaat\n58.3703484097288\t26.714523351146727\tnumbered\tblack\t6\t6 Hektor Design Hostel\n58.3663217\t26.6906504\tnumbered\tblack\t7\t7 W. Ostwaldi 1, 50411 Tartu, Estonia"
+    ],
+    "status": 1
+  }

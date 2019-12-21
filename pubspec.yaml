@@ -1,0 +1,72 @@
+name: google_maps_for_flutter
+description: ITS project. .
+
+version: 1.0.0+1
+
+environment:
+  sdk: ">=2.1.0 <3.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+  shared_preferences: ^0.5.3+1
+  http: ^0.12.0+2
+  google_maps_flutter: ^0.5.21+8
+  location: ^2.3.5
+  provider: ^3.0.0
+  flutter_spinkit: ^4.0.0
+  flutter_typeahead: ^1.7.0
+  numberpicker: ^1.1.0
+  cupertino_icons: ^0.1.2
+  flutter_datetime_picker: ^1.2.5
+  intl: ^0.16.0
+  flutter_polyline_points: ^0.1.0
+  google_map_polyline: ^0.2.0+1
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  
+
+
+
+# For information on the generic Dart part of this file, see the
+# following page: https://www.dartlang.org/tools/pub/pubspec
+
+# The following section is specific to Flutter.
+flutter:
+
+  # The following line ensures that the Material Icons font is
+  # included with your application, so that you can use the icons in
+  # the material Icons class.
+  uses-material-design: true
+
+  # To add assets to your application, add an assets section, like this:
+  # assets:
+  #  - images/a_dot_burr.jpeg
+  #  - images/a_dot_ham.jpeg
+  assets:
+      - assets/map_dark_style.json
+      - assets/route.json
+      - assets/red_dot_icon.png
+      - assets/start_icon.png
+      - assets/finish_icon.png
+      - assets/1.png
+      - assets/2.png
+      - assets/2.png
+      - assets/3.png
+      - assets/4.png
+      - assets/5.png
+      - assets/6.png
+      - assets/7.png
+      - assets/8.png
+      - assets/9.png
+      - assets/10.png
+
+
+  fonts:
+    - family: ProximaNova
+      fonts:
+        - asset: assets/fonts/proximanova-regular-webfont.ttf
+        - asset: assets/fonts/proximanova-semibold-webfont.ttf
+          weight: 600
