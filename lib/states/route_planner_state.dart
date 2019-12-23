@@ -82,7 +82,6 @@ class RoutePlannerState with ChangeNotifier {
       try {
         String jsonString = await _getTheRoute(duration);
         Map<String, dynamic> jsonResponse = json.decode(jsonString);
-        //print(jsonResponse.toString());
         Iterable routeResponse = jsonResponse["routes"][0]["places"];
         Iterable dinstanceResponse = jsonResponse["routes"][0]["segments"];
         finalRouteDinstances = dinstanceResponse.map((i)=> i["distance"].toString()).toList();
