@@ -1,5 +1,6 @@
 # Tourist route planner
-project in Intelligent Transportation Systems course
+project in course Intelligent Transportation Systems 
+mobile application part
 
 
 
