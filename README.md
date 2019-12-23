@@ -1,3 +1,5 @@
 # Tourist route planner
-# porject in ITS course
+project in Intelligent Transportation Systems course
+
+
 
